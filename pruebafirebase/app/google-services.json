@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855909603564",
+    "project_id": "prueba-2-cd65c",
+    "storage_bucket": "prueba-2-cd65c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855909603564:android:c628b8909f9ced54c7edc9",
+        "android_client_info": {
+          "package_name": "com.natxo.pruebafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyYKCrcqh285mbfh1-2eGIHk8WETwIXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
